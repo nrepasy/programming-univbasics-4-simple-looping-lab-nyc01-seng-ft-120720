@@ -1,4 +1,5 @@
 # Write your methods here
+message = "Hello world"
 def loop_message_five_time
   
 
