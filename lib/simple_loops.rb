@@ -12,15 +12,3 @@ end
 
 
 
-loop_message_n_times
-
-
-
-
-
-
-output_array
-
-
-
-return_string_array
