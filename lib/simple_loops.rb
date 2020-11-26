@@ -9,7 +9,14 @@ def loop_message_five_times(message)
 end
   
 message = "Hello Moon."
-def loop_message_n_times
+limit = 5
+def loop_message_n_times(message , limit)
+  count = 0 
+  while count < limit do
+    puts message
+    count += 1 
+  end
+end
 
 
 
