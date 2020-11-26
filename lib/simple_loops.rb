@@ -18,5 +18,6 @@ def loop_message_n_times(message , limit)
   end
 end
 
-
+message = "Hello Red Balloon."
+def output_array(array)
 
